@@ -12,7 +12,15 @@ It's a very simple android weather app.Aslo use android notification.
 ### Show map location
 ### Enable/Disable notification
 ### Share Information
-
+# ScreenShot
+## MainActivity
+![](Images/MainActivity.png)
+## DetailsActivity
+![](Images/DetailsAactivity.png)
+## SettingActivity
+![](Images/SettingActivity.png )
+## Menu
+![](Images/Menu.png )
 # Usages
 
 ### Permissions in mainfest.xml
