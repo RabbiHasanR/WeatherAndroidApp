@@ -3,6 +3,14 @@ WeatherAndroidApp
 # Description
 It's a weather app.It's provide weather information based on location.Used weather API in this application.Also use responsive and material design.
 It's a very simple android weather app.Aslo use android notification.
+## Features
+### Show daily weather information
+### provide notification when weather update
+### Change location
+### Change temparature Unit
+### Responsive
+### Show map location
+### Enable/Disable notification
 
 # Usages
 
