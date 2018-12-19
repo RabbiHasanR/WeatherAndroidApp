@@ -11,6 +11,7 @@ It's a very simple android weather app.Aslo use android notification.
 ### Responsive
 ### Show map location
 ### Enable/Disable notification
+### Share Information
 
 # Usages
 
